@@ -1,2 +1,4 @@
-name: Bala
+spring:
+application:
+name: BalaTest
 
